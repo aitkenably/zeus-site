@@ -1,0 +1,15 @@
+
+body {
+    font-family: Verdana, Geneva, sans-serif; 
+}
+
+#content
+{
+     margin: 0 auto;
+     max-width: 600px; 
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
