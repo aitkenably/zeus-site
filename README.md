@@ -12,5 +12,3 @@ the NGINX html folder.
 docker build -t zeus-site .
 docker run -d -p 8080:80 zeus-site
 ```
-
-
